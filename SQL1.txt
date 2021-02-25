@@ -1,0 +1,2 @@
+insert into employee
+values (20,'pooja',25)
