@@ -1,2 +1,2 @@
 insert into employee
-values (10,'pooja',25)
+values (20,'pooja',25)
