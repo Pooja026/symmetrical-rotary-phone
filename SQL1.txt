@@ -1,2 +1,5 @@
+select * from employee
+where empid=12;
+
 insert into employee
 values (10,'pooja',25)
