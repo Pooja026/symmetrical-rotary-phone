@@ -2,4 +2,4 @@ select * from employee
 where empid=20;
 
 insert into employee
-values (10,'pooja',25)
+values (10,'pooja',15)
