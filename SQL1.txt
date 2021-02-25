@@ -1,5 +1,5 @@
 select * from employee
-where empid=12;
+where empid=20;
 
 insert into employee
 values (10,'pooja',25)
